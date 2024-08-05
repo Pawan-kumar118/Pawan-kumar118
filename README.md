@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pawan-kumar118
-- 👀 I’m interested in fronted, backed, app, development
+- 👀 I’m interested in fronted, backed, app, software development
 - also ui ux design
 - 🌱 I’m currently learning computer science engineering
 - 💞️ I’m looking to collaborate on fronted development
