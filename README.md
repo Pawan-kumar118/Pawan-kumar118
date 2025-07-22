@@ -8,7 +8,7 @@
 - UI/UX Design and Prototyping  
 
 ## 🌱 Currently Learning
-- Core Programming Concepts (C, Java, Python)  
+- Core Programming Concepts (Java, Python)  
 - Web Technologies (HTML, CSS, JavaScript)  
 - Version Control (Git & GitHub)
 
