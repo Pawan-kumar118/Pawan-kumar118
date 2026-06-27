@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Pawan Kumar
 
-🎓 I'm a B.Tech 1st year Computer Science Engineering student passionate about building digital experiences that are both functional and beautiful.
+🎓 I'm a B.Tech 2st year Computer Science Engineering student passionate about building digital experiences that are both functional and beautiful.
 
 ## 👀 Interests
 - Front-end & Back-end Web Development  
